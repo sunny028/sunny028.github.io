@@ -4,8 +4,8 @@
 
 [study]()
 
-  * [classification](study/classification.md)
-  * [clustering](study/clustering.md)
+* [classification](study/classification.md)
+* [clustering](study/clustering.md)
 
 [entertainment](entertainment/entertainment.md)
 
