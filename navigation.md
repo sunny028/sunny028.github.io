@@ -1,20 +1,22 @@
 # DZY
 
-[About](index.md)
+[INDEX](index.md)
 
-[English]()
+[study]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-- - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
+  * [classification](study/classification/classification.md)
+  * [clustering](study/clustering/clustering.md)
 
-[Math]()
+[entertainment](entertainment/entertainment.md)
 
-  * [Levy Processes](math/levy_processes.md)
+[personality]()
 
-[Coding](coding/PythonNote.md)
+* [advantage](personality/advantage.md)
+* [disadvantage](personality/disadvantage.md)
+
+[future](future/future.md)
+
+
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
